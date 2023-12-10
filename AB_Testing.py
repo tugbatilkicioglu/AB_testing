@@ -177,5 +177,5 @@ else:
 # it was determined that the difference in means was due to chance, and therefore,
 # there was no need for the new test application. #
 
-
+# bunu çaldım
 
